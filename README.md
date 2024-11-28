@@ -57,6 +57,3 @@ npm start
 
 ### Random City Forecast
 ![Forecast View](./screenshots/random-city.png)
-
-### POSTMAN Tests
-![Postman Test](./screenshots/POSTMAN.png)
