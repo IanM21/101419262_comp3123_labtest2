@@ -1,6 +1,6 @@
 # Weather Forecast Application
 
-A React-based weather forecast application that provides current and future weather information for cities worldwide. Created as part of COMP3123 - Full Stack Development I Lab Test 2.
+A React-based weather forecast application that provides current and future weather information for cities worldwide.
 
 ## Features
 
@@ -30,12 +30,12 @@ A React-based weather forecast application that provides current and future weat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/101395302_comp3123_labtest2.git
+git clone https://github.com/IanM21/101419262_comp3123_labtest2.git
 ```
 
 2. Install Dependencies
 ```bash
-cd 101395302_comp3123_labtest2
+cd 101419262_comp3123_labtest2
 npm install
 ```
 
